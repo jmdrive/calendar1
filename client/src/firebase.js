@@ -32,7 +32,4 @@ export const UiConfig = {
   ],
   tosUrl: '/terms',
   privacyPolicyUrl: '/privacy'
-  // callbacks: {
-  //   signInSuccessWithAuthResult: () => false,
-  // }
 }
